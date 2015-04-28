@@ -1,6 +1,6 @@
 {
   "name": "node-ensure",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Async module-loading library and protocol for bundlers/loaders targeting isomorphic apps and Node.js.",
   "main": "index.js",
   "browser": {
